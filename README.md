@@ -13,6 +13,7 @@ Program Chair
 The conference program, book of abstracts and other information are available here:
 
 * Proceedings [(intro)](proceedings/index.html) [(LiU E-Press)](http://www.ep.liu.se/ecp/contents.asp?issue=063) [(zip)](https://github.com/modelica/ModelicaConference2012/releases/download/USB/Modelica2011-USB.zip)
+* [Organization](proceedings/pages/organizing.html)
 
 # Highlights
 
