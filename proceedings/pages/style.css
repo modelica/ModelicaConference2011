@@ -1,0 +1,88 @@
+body {
+  font-family: Verdana,Lucida Sans,Arial;
+  font-size: 14px;
+  font-style: normal;
+  font-weight:normal;
+  font-variant: normal;
+  line-height: 21px;
+  text-indent: 0px;
+  vertical-align: baseline;
+  text-align: left;
+  text-decoration: none;
+  text-transform: none;
+  white-space: normal;
+  word-spacing: normal;
+  letter-spacing: normal;
+  margin: 0px;
+  padding: 0px;
+}
+
+.redfont {
+  color: #9e1c22;
+  text-decoration: none;
+}
+
+a {
+  color: #9e1c22;
+	font-size: 14px;
+  text-decoration: none;
+}
+
+a:visited {
+  color: #9e1c22;
+	font-size: 14px;
+  text-decoration: none;
+}
+
+p {
+	font-size: 14px;
+  text-decoration: none;
+}
+
+td {
+	font-size: 14px;
+  text-decoration: none;
+}
+
+h1 {
+	font-size: 18px;
+  text-decoration: none;
+}
+h2 {
+	font-size: 16px;
+  text-decoration: none;
+}
+
+#container {
+   width: 100%;
+}
+
+#header {
+   height: 150px;
+   text-align: left;
+}
+
+#menuleft {
+	width: 220px;
+	float: left;
+	text-align: left;
+	padding-top: 25px;
+	padding-left: 25px;
+	position: absolute;
+	left: 0px;
+	top: 155px;
+}
+
+#contentright {
+	width: 65%;
+	float: right;
+	text-align: left;
+	padding-top: 25px;
+	position: absolute;
+	left: 270px;
+	top: 158px;
+}
+
+#footer {
+   clear: both;
+}
